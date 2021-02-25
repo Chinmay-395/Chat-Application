@@ -1,6 +1,15 @@
 ![caption](./Django-Channels-Chat-App.mp4)
 
 <img src="https://github.com/Chinmay-395/Chat-Application/blob/master/Django-Channels-Chat-App.mp4" title="DEMO" />
+
+<video width="350" height="350" controls>
+  <source
+    src={require("./Django-Channels-Chat-App.mp4")}
+    type="video/ogg"
+  />
+  Your browser does not support the video tag.
+</video>
+
 ### Recommended Start
 
 1. Clone the repo
