@@ -1,6 +1,8 @@
-![caption](./Django-Channels-Chat-App.mp4)
+![Demo Video](./Django-Channels-Chat-App.mp4)
 
-<img src="https://github.com/Chinmay-395/Chat-Application/blob/master/Django-Channels-Chat-App.mp4" title="DEMO" />
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:56.11%;position:relative;"><iframe width="360" height="202" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4zfynm"></iframe></div><p><a href="https://imgflip.com/gif/4zfynm">via Imgflip</a></p></div>
+
+<!-- <img src="https://github.com/Chinmay-395/Chat-Application/blob/master/Django-Channels-Chat-App.mp4" title="DEMO" />
 
 <video width="350" height="350" controls>
   <source
@@ -8,7 +10,7 @@
     type="video/ogg"
   />
   Your browser does not support the video tag.
-</video>
+</video> -->
 
 ### Recommended Start
 
