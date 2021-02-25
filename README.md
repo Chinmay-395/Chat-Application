@@ -4,7 +4,7 @@
 
 <video width="350" height="350" controls>
   <source
-    src={require("./Django-Channels-Chat-App.mp4")}
+    src="./Django-Channels-Chat-App.mp4"
     type="video/ogg"
   />
   Your browser does not support the video tag.
