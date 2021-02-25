@@ -1,5 +1,6 @@
 ![caption](./Django-Channels-Chat-App.mp4)
 
+<img src="https://github.com/Chinmay-395/Chat-Application/blob/master/Django-Channels-Chat-App.mp4" title="DEMO" />
 ### Recommended Start
 
 1. Clone the repo
